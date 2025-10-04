@@ -9,6 +9,12 @@ glyphLock is a simple cipher program that takes a user’s input and scrambles i
 - Prints encrypted strings
 - Appends encrypted strings to the file _glyph.txt_
 
+### Usage
+- Modify the cipher keys towards your liking
+  - Step 1: Navigate to the file _GlyphLock.cpp_ in glyphLock-CPP
+  - Step 2: Navigate to line 10 in the file and modify the 95 values inside the array
+  - Step 3: Save and run the program
+
 #### Development Notes
 - Project started in C to explore basic encryption methods.
 - Rewritten in C++ to address memory allocation challenges encountered in C.
